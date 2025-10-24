@@ -1,2 +1,2 @@
 # Opening_Spring
-My frist Hello World in Spring Web
+My first Hello World in Spring Web
